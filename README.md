@@ -8,31 +8,20 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/alasem) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alaxsemassel) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhaidshqjzax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semasselalaeddine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ala-eddine-semassel-565220236) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/alasem) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alaxsemassel) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhaidshqjzax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semasselalaeddine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ala-eddine-semassel-565220236) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/alasem)  
+
 
 # 🖌️ Design & Prototyping:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)  
 
 # 📊 Research & Analytics: 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)  
-![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=for-the-badge&logo=googleforms&logoColor=white)  
-![Maze](https://img.shields.io/badge/Maze-252F3E?style=for-the-badge&logo=maze&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) ![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=for-the-badge&logo=googleforms&logoColor=white) ![Maze](https://img.shields.io/badge/Maze-252F3E?style=for-the-badge&logo=maze&logoColor=white)  
 
 # 💬 Communication & Collaboration:
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
 
 # 🤖 AI & Automation:   
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)  
-![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black)  
-![Muse](https://img.shields.io/badge/Muse-FF3366?style=for-the-badge&logo=muse&logoColor=white)  
-![Lummi](https://img.shields.io/badge/Lummi-00C853?style=for-the-badge&logo=lummi&logoColor=white)  
-![SpecAi](https://img.shields.io/badge/SpecAi-4A90E2?style=for-the-badge&logo=specai&logoColor=white)  
-![Attention Insight](https://img.shields.io/badge/Attention%20Insight-FF9800?style=for-the-badge&logo=insight&logoColor=white)  
-![Codia AI](https://img.shields.io/badge/Codia%20AI-673AB7?style=for-the-badge&logo=codiaai&logoColor=white)  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white) ![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black) ![Muse](https://img.shields.io/badge/Muse-FF3366?style=for-the-badge&logo=muse&logoColor=white) ![Lummi](https://img.shields.io/badge/Lummi-00C853?style=for-the-badge&logo=lummi&logoColor=white) ![SpecAi](https://img.shields.io/badge/SpecAi-4A90E2?style=for-the-badge&logo=specai&logoColor=white) ![Attention Insight](https://img.shields.io/badge/Attention%20Insight-FF9800?style=for-the-badge&logo=insight&logoColor=white) ![Codia AI](https://img.shields.io/badge/Codia%20AI-673AB7?style=for-the-badge&logo=codiaai&logoColor=white)  
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
