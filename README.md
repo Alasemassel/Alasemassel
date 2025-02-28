@@ -1,7 +1,9 @@
 # 💫 About Me:
-👨‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-- 🔭 I’m currently working on Hexaflex development<br>
--  🌱 I’m currently learning Go/Gofiber<br>
+👨‍💻 Senior UX/UI & Product Designer with a background in software engineering.<br/>
+-  🎨 Passionate about creating intuitive, user-centered experiences through research and design.<br>
+-  🌱 Designing fintech, e-commerce, e-education, and AI-driven products<br>
+-  🔭 Exploring the intersection of design and AI to enhance digital experiences.<br>
+
 <!-- - 💬 Ask me about flutter,<br> -->
 
 
@@ -18,8 +20,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
