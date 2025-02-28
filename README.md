@@ -41,6 +41,11 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)  
 ![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black)  
+![Muse](https://img.shields.io/badge/Muse-FF3366?style=for-the-badge&logo=muse&logoColor=white)  
+![Lummi](https://img.shields.io/badge/Lummi-00C853?style=for-the-badge&logo=lummi&logoColor=white)  
+![SpecAi](https://img.shields.io/badge/SpecAi-4A90E2?style=for-the-badge&logo=specai&logoColor=white)  
+![Attention Insight](https://img.shields.io/badge/Attention%20Insight-FF9800?style=for-the-badge&logo=insight&logoColor=white)  
+![Codia AI](https://img.shields.io/badge/Codia%20AI-673AB7?style=for-the-badge&logo=codiaai&logoColor=white)   
 
 <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
