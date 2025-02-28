@@ -24,6 +24,15 @@
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
 
+# 🤖 AI & Automation:   
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)  
+![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black)  
+![Muse](https://img.shields.io/badge/Muse-FF3366?style=for-the-badge&logo=muse&logoColor=white)  
+![Lummi](https://img.shields.io/badge/Lummi-00C853?style=for-the-badge&logo=lummi&logoColor=white)  
+![SpecAi](https://img.shields.io/badge/SpecAi-4A90E2?style=for-the-badge&logo=specai&logoColor=white)  
+![Attention Insight](https://img.shields.io/badge/Attention%20Insight-FF9800?style=for-the-badge&logo=insight&logoColor=white)  
+![Codia AI](https://img.shields.io/badge/Codia%20AI-673AB7?style=for-the-badge&logo=codiaai&logoColor=white)  
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -33,19 +42,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 🤖 AI & Automation:   
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)  
-![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black)  
-![Muse](https://img.shields.io/badge/Muse-FF3366?style=for-the-badge&logo=muse&logoColor=white)  
-![Lummi](https://img.shields.io/badge/Lummi-00C853?style=for-the-badge&logo=lummi&logoColor=white)  
-![SpecAi](https://img.shields.io/badge/SpecAi-4A90E2?style=for-the-badge&logo=specai&logoColor=white)  
-![Attention Insight](https://img.shields.io/badge/Attention%20Insight-FF9800?style=for-the-badge&logo=insight&logoColor=white)  
-![Codia AI](https://img.shields.io/badge/Codia%20AI-673AB7?style=for-the-badge&logo=codiaai&logoColor=white)   
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
