@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Senior UX/UI & Product Designer with a background in software engineering.<br/>
+👨‍💻 Senior Product Designer with a background in software engineering.<br/>
 -  🎨 Passionate about creating intuitive, user-centered experiences through research and design.<br>
 -  🌱 Designing fintech, e-commerce, e-education, and AI-driven products<br>
 -  🔭 Exploring the intersection of design and AI to enhance digital experiences.<br>
