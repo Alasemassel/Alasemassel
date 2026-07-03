@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 👨‍💻 AI Product Designer with a background in software engineering.<br/>
-- 🧠 Product Design Lead at **Bigmama Technology**, designing AI-native products: **HykoAI**, and **Jardin Secret AI**<br>
+- 🧠 Product Design Lead at **Bigmama Technology**, designing AI products: **HykoAI**, and **Jardin Secret AI**<br>
 - 🛠️ Building **local-first MCP tools** centered on data sovereignty, compatible with Hyko AI, Claude, Strawberry browser,cursor..<br>
 - 🎨 Work on the agentic design system **Acanthus Design System**, a multi-brand token architecture, LLM ready<br>
 - 📊 Running analytics & LLM evaluation infrastructure with PostHog (agent activity, LLM evals, cost reporting)<br>
