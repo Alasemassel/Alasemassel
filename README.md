@@ -1,7 +1,7 @@
 <img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/0bc48757-1c23-4cd2-bc01-098e1e9c3dee" />
 
 # 💫 About Me:
-AI Product Designer with a background in software engineering 👨‍💻 <br/>
+AI-Native Product Designer with a background in software engineering 👨‍💻 <br/>
 - Product Design Lead at **Bigmama Technology**, designing AI products: **HykoAI**, and **Jardin Secret AI**<br>
 - Building **local-first MCP tools** centered on data sovereignty, compatible with Hyko AI, Claude, Strawberry browser,cursor..<br>
 - Work on the agentic design OS **Acanthus OS**, a multi-brand design system architecture, with animation workspace, prototypes and LLM ready
